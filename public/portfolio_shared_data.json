@@ -1,16 +1,12 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "JYM",
+      "titles": [ "Full Stack Web Developer" ,"Studying @UIUC"],
       "social": [
-        {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
-        },
+
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/jimmymiao08/",
           "class": "fab fa-instagram"
         }
       ],
